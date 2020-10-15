@@ -28,6 +28,6 @@ while True:
         random.shuffle(s) ## Just like tash ka pattta
         
         # random.sample(s,plength)  ## We can also use this 
-        print(f'\nPlease try this password  : {"".join(s[0:plength])}')
+        print(f'\nHere i got something for you try it please : {"".join(s[0:plength])}')
     else: 
         print("\nYour password contain very less digit please increase the value ... ?\n")
